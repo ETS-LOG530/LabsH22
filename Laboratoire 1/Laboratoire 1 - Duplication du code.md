@@ -19,7 +19,8 @@
 	- [Partie 7 (Optionnelle): Refactoring](#partie7)
 5. [Conditions de réalisation](#conditions)
 6. [Aide et discussions](#discussion)
-7. [Remise](#remise)
+7. [Barème](#bareme)
+8. [Remise](#remise)
 
 <a name="objectifs"></a>
 ## 1. Objectifs
@@ -64,11 +65,11 @@ Les outils auxiliaires **ne sont pas nécessaires** pour la réalisation de labo
 - [Copy/Paste Detector](https://pmd.sourceforge.io/pmd-4.2.5/cpd.html) (CPD) de PMD : un plugin Eclipse pour détecter du code dupliqué.
 
 <a name="installation"></a>
-## Installation et préparation
+## 3. Installation et préparation
 Pour la partie 1, il vous faudra Perl. Pour installer Perl, si ce n'est pas déjà fait, télécharger le programme d'installation (version [ActivePerl](https://www.activestate.com/products/perl/downloads/)).
 
 <a name="travail"></a>
-## 3. Travail à réaliser
+## 4. Travail à réaliser
 <a name="partie1"></a>
 ### Partie 1 : Détection à petite échelle
 #### Détection manuelle
@@ -226,20 +227,24 @@ Voici quelques questions pour vous guider dans le processus de refactoring de la
 5.	Comment s’assurer que le refactoring n'a pas changé le comportement du système ?
 
 <a name="conditions"></a>
-## 4. Conditions de réalisation
+## 5. Conditions de réalisation
 Le travail est à effectuer en équipes de 3 étudiants au _*maximum*_.
 
 <a name="discussion"></a>
-## 5. Aide et discussions
+## 6. Aide et discussions
 Vous êtes encouragés à discuter du laboratoire et à poser vos questions en utilisant le forum créé à cette fin sur Moodle ou sur Discord. Les membres de chaque équipe sont encouragés à utiliser les channels privés (textuel et vocal) créés pour leur équipe sur Discord pour discuter et travailler en équipe sur les différentes activités du laboratoire.
 
+<a name="bareme"></a>
+## 7. Barème
+Le barème de notation est disponible sur ce [lien](https://github.com/ETS-LOG530/ProjetH22/blob/main/Laboratoire%201/Bareme%201.md).
+
 <a name="remise"></a>
-## 6. Remise
+## 8. Remise
 Le travail doit être remis électroniquement sur Moodle au plus tard le **25 janvier à 23 h 59**. Vous devrez remettre une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers générés et le rapport. C'est-à-dire les rapports ``.txt`` de la partie 1 faite avec perl et les fichiers ``.rcf`` d'Iclones. Assurez-vous que le nom de tous les membres de l’équipe ayant contribué à la réalisation du travail soit inscrit dans le rapport. Une seule remise électronique est nécessaire par équipe.
 Pour faciliter la correction, vous devez nommer votre dossier de remise de la façon suivante :
 
 ``
-LOG530H2021-LabXX-EquipeYY-CodePermanent1_CodePermanent2_CodePermanent3
+LOG530H2022-LabXX-EquipeYY-CodePermanent1_CodePermanent2_CodePermanent3
 ``
 
 Et votre rapport ainsi : 

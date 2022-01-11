@@ -2,7 +2,7 @@
 
 ### Hiver 2022
 
-[Lab #1 - Duplication de code](https://github.com/ETS-LOG530/ProjetH22/blob/main/Laboratoire%201/Laboratoire%201%20-%20Duplication%20du%20code.md)
+[Lab #1 - Duplication de code](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%201/Laboratoire%201%20-%20Duplication%20du%20code.md)
 
 Lab #2 - Assistants de refactoring
 

@@ -236,7 +236,7 @@ Vous êtes encouragés à discuter du laboratoire et à poser vos questions en u
 
 <a name="bareme"></a>
 ## 7. Barème
-Le barème de notation est disponible sur ce [lien](https://github.com/ETS-LOG530/ProjetH22/blob/main/Laboratoire%201/Bareme%201.md).
+Le barème de notation est disponible sur ce [lien](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%201/Bareme%201.md).
 
 <a name="remise"></a>
 ## 8. Remise

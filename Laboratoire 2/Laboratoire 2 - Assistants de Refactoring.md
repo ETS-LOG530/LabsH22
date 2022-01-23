@@ -11,7 +11,9 @@
 4. [ Travail à réaliser ](#travail)
 	- [ Partie 1 : JPacman avec CodeScene ](#partie1)
 	- [ Partie 2 : JPacman avec SonarQube ](#partie2)
-	- [ Partie 3 : Application du refactoring stratégique](#application)
+	- [ Partie 3 : Refactoring stratégique avec JPacman](#strategique)
+	- [ Partie 4 : Application du refactoring stratégique](#application)
+	
 5. [ Conditions de réalisation ](#conditions)
 6. [ Aide et discussions ](#discussion)
 7. [ Remise ](#remise)

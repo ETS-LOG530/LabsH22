@@ -4,7 +4,7 @@
 
 [Lab #1 - Duplication de code](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%201/Laboratoire%201%20-%20Duplication%20du%20code.md)
 
-Lab #2 - Assistants de refactoring
+[Lab #2 - Assistants de refactoring](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%202/Laboratoire%202%20-%20Assistants%20de%20Refactoring.md)
 
 Lab #3 - Métriques et visualisation
 

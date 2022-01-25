@@ -129,7 +129,7 @@ rcfviewer.bat <nom du rapport d’Iclone donné au point 1.>
 
 Questions : <br/>
 a) 	De quelles informations disposez-vous dans la visionneuse de rapports de rcfviewer ? <br/>
-b)	Combien de classes de code dupliquées sont mentionnées dans le rapport ?<br/>
+b)	Combien d'instances de code dupliqués sont mentionnées dans le rapport ?c
 c)	Pouvez-vous déterminer les candidats à être corrigés (refactoring) à partir de la vue du code source ?<br/>
 d)	Quels types de code dupliqué sont des candidats plus clairs et plus faciles à corriger ?<br/>
 

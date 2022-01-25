@@ -91,7 +91,7 @@ perl simpleDude.pl DuplicationSuspect.java > <nom du rapport>
 
 **NB.** - ``nom du rapport`` doit être sans espace et dans le format ``.txt``. Exemple de nom valide : ``report.txt``
 
-1. Ouvrez le fichier ``simpleDude.pl`` et changez le paramètre ``$slidingWindowSize =10`` qui se trouve au début du script pour des valeurs plus élevées. Par exemple : 20, 30, etc. Présentez le nombre de cas dupliquer trouver dans un tableau comparatif.
+1. Ouvrez le fichier ``simpleDude.pl`` et changez le paramètre ``$slidingWindowSize =10`` qui se trouve au début du script pour des valeurs plus élevées. Par exemple : 20, 30, etc. Présentez le nombre de cas dupliqués trouvés dans un tableau comparatif.
 2. Comparez vos résultats obtenus grâce à la détection manuelle avec ceux de l'outil.
 
 Questions : <br/>

@@ -148,7 +148,7 @@ Pour la deuxième partie, nous allons utiliser un outil plus complexe et dédié
 
 Si l'installation, c'est déroulé correctement, voici à quoi ressemblera la page de SonarQube une fois l'analyse terminée sur JPacman.
 
-![SonarQube pour JPacMan](figs/sonarqube-jpacman.png)
+![SonarQube pour JPacMan](https://github.com/ETS-LOG530/LabsH22/blob/main/figs/sonarqube-jpacman.png)
 
 Cliquez sur "Code Smells" et analysez les odeurs détectées. Vous pouvez également voir que SonarQube donne aussi des explications sur les odeurs ("Why this is an issue ?").
 

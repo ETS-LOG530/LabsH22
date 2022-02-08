@@ -57,7 +57,7 @@ Les outils auxiliaires **ne sont pas nécessaires** pour la réalisation de labo
 
 Pour faire ce laboratoire, préparer les outils de base indiqués dans la [section 2](#outils) (pas les [outils auxiliaires](#auxiliaires), ils sont optionnels et ne seront pas utilisés dans ce laboratoire) 
 
-Assurez-vous de suivre l'installation et les étapes décrites dans le [laboratoire #2](https://github.com/ETS-LOG530/LabsH21/blob/main/Laboratoire%202%20:%20Assistants%20de%20Refactoring.md) (Assistants de refactoring), si vous ne l'aviez pas fait. En résumé, les étapes consistent à :
+Assurez-vous de suivre l'installation et les étapes décrites dans le [laboratoire #2](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%202/Laboratoire%202%20-%20Assistants%20de%20Refactoring.md) (Assistants de refactoring), si vous ne l'aviez pas fait. En résumé, les étapes consistent à :
 - Installer [IntelliJ IDEA](https://www.jetbrains.com/idea/), 
 - Faire un fork du projet [JPacman](https://github.com/ouniali/jpacman) sur votre compte Github,
 - Faire le build (construire) et l'exécuter,

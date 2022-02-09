@@ -28,7 +28,7 @@ Le but de ce laboratoire est de stimuler la discussion sur les propriétés d'un
 <a name="outils"></a>
 ### Outils de base
 -	[IntelliJ IDEA](https://www.jetbrains.com/idea/)  (vous pouvez utiliser Eclipse, à votre discrétion, mais cela peut nécessiter des adaptations pour le projet que nous utilisons pendant les sessions de laboratoire)
--	Le projet [JPacman](https://github.com/hscrocha/jpacman).
+-	Le projet [JPacman](https://github.com/ouniali/jpacman).
 -	Le projet [React](https://github.com/facebook/react).
 -	[CodeScene](https://codescene.io/) : pas d’installation requise, mais il nécessite un compte GitHub. L'intégration de cet outil avec GitHub lui permet de visualiser vos répertoires de code. La partie dette technique (Technical Debt) affiche les cibles de refactoring. Les codes biomarqueurs (Code Biomarkers) montrent une analyse plus détaillée des odeurs (code smells), mais ce n'est disponible que pour les abonnements payants.
 - [Understand](https://scitools.com/) : Un outil puissant pour la visualisation, l'analyse et la mesure de logiciel. Vous pouvez avoir une licence gratuite avec votre compte de l’ETS via ce [lien](https://scitools.com/student/). Le tutoriel [suivant](https://scitools.com/support/complete-overview-video/) fournira une bonne prise en main pour commencer à utiliser l'outil.
@@ -88,7 +88,7 @@ Ensuite, visitez le site Web de l'outil [Understand](https://scitools.com/) et c
 <a name="partie2"></a>
 ### Partie 2 : JPacman -- prise en main pratique
 
-Pour la deuxième tâche, l'objectif est de commencer à se familiariser avec le code source de [JPacman](https://github.com/hscrocha/jpacman). Téléchargez/clonez le référentiel et exécutez l'application dans votre IDE. Maintenant, regardez le code source et essayez de comprendre sa structure interne (packages, classes, méthodes, variables, etc.). Dans le dossier ``docs/uml``, il y a deux diagrammes UML simplifiés.
+Pour la deuxième tâche, l'objectif est de commencer à se familiariser avec le code source de [JPacman](https://github.com/ouniali/jpacman). Téléchargez/clonez le référentiel et exécutez l'application dans votre IDE. Maintenant, regardez le code source et essayez de comprendre sa structure interne (packages, classes, méthodes, variables, etc.). Dans le dossier ``docs/uml``, il y a deux diagrammes UML simplifiés.
 
 Comme indiqué dans le livre (OORP, p.39), il s'agit de votre « premier contact » avec le logiciel qui nécessite des activités de réingénierie. Comme souvent, nous nous demandons « comment commencer ? » (« Where do I start ? ») (OORP, p. 40).
 

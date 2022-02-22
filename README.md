@@ -8,6 +8,6 @@
 
 [Lab #3 - Métriques et visualisation](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%203/Laboratoire%203%20-%20M%C3%A9triques%20et%20visualisation.md)
 
-Lab #4 - Exploration des répertoires de code
+[Lab #4 - Exploration des répertoires de code](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%204/Laboratoire%204%20-%20Repertoires%20de%20code.md)
 
 Lab #5 - Analyse dynamique et tests

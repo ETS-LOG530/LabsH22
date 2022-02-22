@@ -1,0 +1,12 @@
+# Laboratoire 4 : Exploration des répertoires de code
+## LOG530 – Réingénierie du Logiciel
+### Barème
+
+| Critères   | Évaluation |
+| -------- | ----------- |
+| **Présentation du rapport ** <br>  - Structure et qualité de rédaction <br> - Ampleur des discussions et recul sur les réponses aux questions                                                                                                                                                                                             | **3 points**<br> 1  <br> 2                        |
+| **Partie 1 : Exploration des fichiers et de fréquence de changement** <br> - Adaptation du fichier CollectFiles.py pour collecter uniquement les fichiers source <br> - Identification du fichier de code source le plus modifié pour chaque projet.                                                                                          | **5 points**<br> 3  <br> 2                        |
+| **Partie 2 : Qui a changé quoi?** <br> - Implémentation du script pour dessiner le graphe de nuage de points <br> - Génération les graphes de nuage de points pour chacun des 4 projets <br> - Constatations et discussions des 4 graphes                                                                                                          | **6 points**<br> 3 <br> 1 <br> 2                  |
+| **Partie 3 : JPacman -- Historique de refactoring avec JPacman** <br> - Configuration et utilisation de RefactoringMiner <br> - Identification des 3 opérations de refactoring les plus appliquées <br> - Identification de la classe la plus refactorisée <br> - (Question Bonus) Identification du développeur le plus actif en refactoring | **6 points**<br> 3 <br> 2 <br> 1 <br> 1.5 (bonus) |
+| **Partie 4 : (Optionnelle : Bonus)** : Historique des Pull Requests <br> - Génération du graphique <br> - Analyse et discussion du graphique <br>                                                                                                                                                                                             | **3 points (Bonus)** <br> 2 <br> 1                |
+| **TOTAL**                                                                                                                                                                                                                                                                                                                                     | **20 points** <br> **(+ 4.5 bonus)**                      |

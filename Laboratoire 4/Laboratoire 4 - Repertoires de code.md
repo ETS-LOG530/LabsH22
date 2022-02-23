@@ -132,7 +132,7 @@ Nous utilisons l'outil [RefactoringMiner](https://github.com/tsantalis/Refactori
 
 En se basant sur la documentation de l'outil [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner), exécutez l'outil avec le projet [JPacman de hscrocha](https://github.com/hscrocha/jpacman) pour en extraire l'historique de refactoring.
 
-**NB.** Regarder que les commits qui sont avant le début de ce laboratoire (soit avant le vendredi 12 avril 2021). Donc ignorer ceux fait après.
+**NB.** Regarder que les commits qui sont avant le 12 avril 2021. Donc ignorer ceux fait après.
 
 **Questions**
 1. Prenez une capture d'écran de votre code qui implémente RefactoringMiner et remettez le fichier.

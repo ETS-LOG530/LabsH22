@@ -167,7 +167,6 @@ Le travail doit être remis électroniquement sur Moodle au plus tard le **8 mar
   - ``'equipeXX'_scatterplot.py``
   - ``'equipeXX'_authorsFileTouches.py``
   - ``CollectFiles.py``
-- le tableau de contribution tel vu dans le laboratoire précédent de manière individuelle.
    
 Une seule remise électronique est nécessaire par équipe. Pour faciliter la correction, vous devez nommer votre dossier de la remise de la façon suivante :
 

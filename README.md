@@ -10,4 +10,4 @@
 
 [Lab #4 - Exploration des répertoires de code](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%204/Laboratoire%204%20-%20Repertoires%20de%20code.md)
 
-Lab #5 - Analyse dynamique et tests
+[Lab #5 - Analyse dynamique et tests](https://github.com/ETS-LOG530/LabsH22/blob/main/Laboratoire%205/Laboratoire%205%20-%20Analyse%20dynamique%20et%20tests.md)
